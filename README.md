@@ -1,6 +1,6 @@
 # EstudosDataScience
 Esse repositório contém uma série de notebooks utilizados para praticar ou anotar os conteúdos dos meus estudos da área de Ciência de Dados.
-Atuaalmente a separação de pastas será:
+Atualmente a separação de pastas será da seguinte maneira:
 
 *1. Primeiros Passos* - possui o conteúdo inicial dos estudos, como abordagens simples nos frameworks de Análise de Dados do Python (como o Matplotlib, Numpy, Pandas e Seaborn) <br>
 *2. Bibliotecas, Funções, Estruturas de Dados e Exceções* - possui conteúdo sobre aprofundamento na linguagem Python voltado para Ciência de Dados, como funções lambda, list e dict comprehensions e exceções. <br>
